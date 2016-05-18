@@ -18,6 +18,11 @@
 
 ###3. 从aqicn.org获取PM2.5信息
 简要说明……  
+
+利用aqicn.org提供的接口，显示pm2.5的数值
+
 详细步骤……  
-1. 
+1.获取网络权限
+2.解析http://aqicn.org/publishingdata/json的json数据
+3.设计界面，将解析到的数据根据需要显示出来
 
